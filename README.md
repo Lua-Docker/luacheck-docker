@@ -1,0 +1,2 @@
+# luacheck-docker
+Dockerized luacheck
